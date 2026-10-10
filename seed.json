@@ -1,0 +1,470 @@
+[
+  {
+    "id": 1,
+    "trade_name": "Electrician",
+    "category": "Electrical",
+    "description": "Install, maintain and repair electrical systems.",
+    "required_education": "10th / 12th / ITI",
+    "training_duration": "1–2 years",
+    "sample_earning_range": "₹12,000–₹30,000/month",
+    "placement_rate": "72%",
+    "job_roles": [
+      "Electrical Technician",
+      "Maintenance Technician",
+      "Service Technician"
+    ],
+    "career_growth": [
+      "Training",
+      "Entry Technician",
+      "Experienced Technician",
+      "Senior Technician",
+      "Supervisor"
+    ],
+    "further_education": [
+      "Advanced electrical certification",
+      "Diploma pathways",
+      "Solar specialisation"
+    ],
+    "local_demand": "High",
+    "interests": [
+      "electrical",
+      "electronics",
+      "technology",
+      "manufacturing"
+    ]
+  },
+  {
+    "id": 2,
+    "trade_name": "Solar Technician",
+    "category": "Renewable Energy",
+    "description": "Install and maintain solar photovoltaic systems.",
+    "required_education": "10th / 12th / ITI",
+    "training_duration": "3–12 months",
+    "sample_earning_range": "₹14,000–₹32,000/month",
+    "placement_rate": "76%",
+    "job_roles": [
+      "Solar PV Installer",
+      "Solar Service Technician",
+      "Site Technician"
+    ],
+    "career_growth": [
+      "Training",
+      "Installer",
+      "Technician",
+      "Senior Technician",
+      "Site Supervisor"
+    ],
+    "further_education": [
+      "Advanced solar certification",
+      "Electrical specialisation"
+    ],
+    "local_demand": "Very High",
+    "interests": [
+      "electrical",
+      "electronics",
+      "technology",
+      "construction"
+    ]
+  },
+  {
+    "id": 3,
+    "trade_name": "Electronics Technician",
+    "category": "Electronics",
+    "description": "Test, repair and maintain electronic devices and systems.",
+    "required_education": "12th / ITI / Diploma",
+    "training_duration": "6–18 months",
+    "sample_earning_range": "₹15,000–₹35,000/month",
+    "placement_rate": "70%",
+    "job_roles": [
+      "Electronics Technician",
+      "Service Technician",
+      "Testing Technician"
+    ],
+    "career_growth": [
+      "Training",
+      "Junior Technician",
+      "Technician",
+      "Senior Technician",
+      "Team Lead"
+    ],
+    "further_education": [
+      "Diploma",
+      "Embedded systems certification"
+    ],
+    "local_demand": "High",
+    "interests": [
+      "electronics",
+      "technology",
+      "manufacturing"
+    ]
+  },
+  {
+    "id": 4,
+    "trade_name": "Fitter",
+    "category": "Manufacturing",
+    "description": "Fit, assemble and maintain mechanical components and machinery.",
+    "required_education": "10th / ITI",
+    "training_duration": "1–2 years",
+    "sample_earning_range": "₹13,000–₹32,000/month",
+    "placement_rate": "74%",
+    "job_roles": [
+      "Fitter",
+      "Maintenance Technician",
+      "Assembly Technician"
+    ],
+    "career_growth": [
+      "Training",
+      "Junior Fitter",
+      "Fitter",
+      "Senior Fitter",
+      "Supervisor"
+    ],
+    "further_education": [
+      "Diploma",
+      "CNC specialisation"
+    ],
+    "local_demand": "High",
+    "interests": [
+      "manufacturing",
+      "automobile",
+      "technology"
+    ]
+  },
+  {
+    "id": 5,
+    "trade_name": "Welder",
+    "category": "Manufacturing",
+    "description": "Join and fabricate metal components using welding processes.",
+    "required_education": "10th / ITI",
+    "training_duration": "6–18 months",
+    "sample_earning_range": "₹13,000–₹35,000/month",
+    "placement_rate": "69%",
+    "job_roles": [
+      "Welder",
+      "Fabrication Technician",
+      "Welding Assistant"
+    ],
+    "career_growth": [
+      "Training",
+      "Junior Welder",
+      "Welder",
+      "Senior Welder",
+      "Supervisor"
+    ],
+    "further_education": [
+      "Advanced welding certification",
+      "Fabrication"
+    ],
+    "local_demand": "High",
+    "interests": [
+      "manufacturing",
+      "construction",
+      "automobile"
+    ]
+  },
+  {
+    "id": 6,
+    "trade_name": "Automotive Technician",
+    "category": "Automobile",
+    "description": "Diagnose, service and repair vehicles and vehicle systems.",
+    "required_education": "10th / 12th / ITI",
+    "training_duration": "1–2 years",
+    "sample_earning_range": "₹14,000–₹36,000/month",
+    "placement_rate": "73%",
+    "job_roles": [
+      "Service Technician",
+      "Diagnostic Technician",
+      "Workshop Technician"
+    ],
+    "career_growth": [
+      "Training",
+      "Junior Technician",
+      "Technician",
+      "Senior Technician",
+      "Workshop Supervisor"
+    ],
+    "further_education": [
+      "EV technician certification",
+      "Automotive diagnostics",
+      "Diploma"
+    ],
+    "local_demand": "High",
+    "interests": [
+      "automobile",
+      "electronics",
+      "manufacturing",
+      "technology"
+    ]
+  },
+  {
+    "id": 7,
+    "trade_name": "Computer Operator",
+    "category": "IT & Digital",
+    "description": "Perform office computing, data entry and basic digital operations.",
+    "required_education": "10th / 12th",
+    "training_duration": "3–9 months",
+    "sample_earning_range": "₹12,000–₹28,000/month",
+    "placement_rate": "65%",
+    "job_roles": [
+      "Computer Operator",
+      "Data Entry Operator",
+      "Office Assistant"
+    ],
+    "career_growth": [
+      "Training",
+      "Operator",
+      "Senior Operator",
+      "Digital Support Executive"
+    ],
+    "further_education": [
+      "Office automation",
+      "IT support"
+    ],
+    "local_demand": "Medium",
+    "interests": [
+      "technology",
+      "retail"
+    ]
+  },
+  {
+    "id": 8,
+    "trade_name": "Healthcare Assistant",
+    "category": "Healthcare",
+    "description": "Support healthcare teams with basic patient-care tasks.",
+    "required_education": "12th",
+    "training_duration": "6–12 months",
+    "sample_earning_range": "₹14,000–₹30,000/month",
+    "placement_rate": "71%",
+    "job_roles": [
+      "Healthcare Assistant",
+      "Patient Care Assistant",
+      "Care Support Worker"
+    ],
+    "career_growth": [
+      "Training",
+      "Care Assistant",
+      "Senior Assistant",
+      "Care Coordinator"
+    ],
+    "further_education": [
+      "Healthcare certifications"
+    ],
+    "local_demand": "Very High",
+    "interests": [
+      "healthcare"
+    ]
+  },
+  {
+    "id": 9,
+    "trade_name": "Plumber",
+    "category": "Construction",
+    "description": "Install and maintain water supply, drainage and plumbing systems.",
+    "required_education": "10th / ITI",
+    "training_duration": "6–18 months",
+    "sample_earning_range": "₹13,000–₹30,000/month",
+    "placement_rate": "67%",
+    "job_roles": [
+      "Plumber",
+      "Maintenance Plumber",
+      "Site Technician"
+    ],
+    "career_growth": [
+      "Training",
+      "Assistant",
+      "Plumber",
+      "Senior Plumber",
+      "Supervisor / Contractor"
+    ],
+    "further_education": [
+      "Advanced plumbing"
+    ],
+    "local_demand": "High",
+    "interests": [
+      "construction"
+    ]
+  },
+  {
+    "id": 10,
+    "trade_name": "Carpenter",
+    "category": "Construction",
+    "description": "Measure, cut, assemble and finish wood and related materials.",
+    "required_education": "10th / Skill training",
+    "training_duration": "6–18 months",
+    "sample_earning_range": "₹12,000–₹30,000/month",
+    "placement_rate": "62%",
+    "job_roles": [
+      "Carpenter",
+      "Furniture Technician",
+      "Interior Installer"
+    ],
+    "career_growth": [
+      "Training",
+      "Assistant",
+      "Carpenter",
+      "Senior Carpenter",
+      "Entrepreneur"
+    ],
+    "further_education": [
+      "Furniture design",
+      "Interior installation"
+    ],
+    "local_demand": "Medium",
+    "interests": [
+      "construction",
+      "manufacturing"
+    ]
+  },
+  {
+    "id": 11,
+    "trade_name": "Retail Associate",
+    "category": "Retail",
+    "description": "Support customers, inventory, billing and retail operations.",
+    "required_education": "10th / 12th",
+    "training_duration": "3–6 months",
+    "sample_earning_range": "₹12,000–₹25,000/month",
+    "placement_rate": "68%",
+    "job_roles": [
+      "Retail Associate",
+      "Sales Associate",
+      "Store Assistant"
+    ],
+    "career_growth": [
+      "Training",
+      "Associate",
+      "Senior Associate",
+      "Team Lead",
+      "Store Supervisor"
+    ],
+    "further_education": [
+      "Retail management"
+    ],
+    "local_demand": "High",
+    "interests": [
+      "retail",
+      "hospitality"
+    ]
+  },
+  {
+    "id": 12,
+    "trade_name": "Beauty & Wellness Assistant",
+    "category": "Beauty & Wellness",
+    "description": "Provide supervised beauty, grooming and wellness services.",
+    "required_education": "10th / 12th",
+    "training_duration": "3–9 months",
+    "sample_earning_range": "₹12,000–₹30,000/month",
+    "placement_rate": "64%",
+    "job_roles": [
+      "Beauty Assistant",
+      "Salon Assistant",
+      "Wellness Assistant"
+    ],
+    "career_growth": [
+      "Training",
+      "Assistant",
+      "Professional",
+      "Senior Professional",
+      "Entrepreneur"
+    ],
+    "further_education": [
+      "Advanced beauty certification"
+    ],
+    "local_demand": "Medium",
+    "interests": [
+      "beauty",
+      "retail"
+    ]
+  },
+  {
+    "id": 13,
+    "trade_name": "Food Production Assistant",
+    "category": "Hospitality",
+    "description": "Support food preparation, kitchen operations and hygiene.",
+    "required_education": "10th / 12th",
+    "training_duration": "3–12 months",
+    "sample_earning_range": "₹12,000–₹28,000/month",
+    "placement_rate": "66%",
+    "job_roles": [
+      "Kitchen Assistant",
+      "Food Production Assistant",
+      "Commis"
+    ],
+    "career_growth": [
+      "Training",
+      "Assistant",
+      "Commis",
+      "Chef / Team Lead"
+    ],
+    "further_education": [
+      "Culinary certification",
+      "Hospitality diploma"
+    ],
+    "local_demand": "High",
+    "interests": [
+      "hospitality"
+    ]
+  },
+  {
+    "id": 14,
+    "trade_name": "CNC Machine Operator",
+    "category": "Manufacturing",
+    "description": "Operate computer-controlled machines for precision manufacturing.",
+    "required_education": "10th / 12th / ITI",
+    "training_duration": "6–18 months",
+    "sample_earning_range": "₹15,000–₹38,000/month",
+    "placement_rate": "75%",
+    "job_roles": [
+      "CNC Operator",
+      "Machine Operator",
+      "Production Technician"
+    ],
+    "career_growth": [
+      "Training",
+      "Operator",
+      "Senior Operator",
+      "Setter",
+      "Production Supervisor"
+    ],
+    "further_education": [
+      "CNC programming",
+      "CAD/CAM",
+      "Diploma"
+    ],
+    "local_demand": "Very High",
+    "interests": [
+      "manufacturing",
+      "technology"
+    ]
+  },
+  {
+    "id": 15,
+    "trade_name": "Refrigeration & AC Technician",
+    "category": "Service Engineering",
+    "description": "Install, service and maintain refrigeration and air-conditioning systems.",
+    "required_education": "10th / ITI",
+    "training_duration": "1–2 years",
+    "sample_earning_range": "₹14,000–₹35,000/month",
+    "placement_rate": "70%",
+    "job_roles": [
+      "RAC Technician",
+      "Service Technician",
+      "Maintenance Technician"
+    ],
+    "career_growth": [
+      "Training",
+      "Assistant Technician",
+      "Technician",
+      "Senior Technician",
+      "Supervisor"
+    ],
+    "further_education": [
+      "HVAC certification",
+      "Advanced refrigeration"
+    ],
+    "local_demand": "High",
+    "interests": [
+      "electrical",
+      "technology",
+      "manufacturing"
+    ]
+  }
+]
